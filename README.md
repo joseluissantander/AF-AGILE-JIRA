@@ -1,15 +1,15 @@
 # AF-AGILE-JIRA
 
-## Introducción Metodologías Agile
+- Introducción Metodologías Ágiles: Scrum y Kanban
+- Principios y beneficios de las Matodologías Ágiles
+- Introducción a JIRA
+- Proyectos
+- Tableros
+- Busqueda
+- JQL
+- Filtros
+- Tipos de issues
+- Epicas 
+- Versiones
+- Usuarios y grupos
 
-- Significado y sentido de la Gestión Ágil
-- Principios
-- Metodologías ágiles: Scrum, Kanban
-
-## Implementación de JIRA en SCFGS
-
-- Creación de épicas
-- Creación de tareas
-- Tipos de tareas
-- Estados
-- Ceremonias
